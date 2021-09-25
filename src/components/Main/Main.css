@@ -1,3 +1,14 @@
+.search-area {
+    background-color: #ddd;
+    text-align: center;
+    line-height: 40px;
+}
+
+.search-area input {
+    width: 50%;
+    padding-left: 10px;
+}
+
 .main-container {
     display: grid;
     grid-template-columns: 3fr 1fr;

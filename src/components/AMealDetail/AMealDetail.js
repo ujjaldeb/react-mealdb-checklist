@@ -9,7 +9,7 @@ const AMealDetail = (props) => {
             <img src={strMealThumb} alt="" />
             <div style={{ padding: '25px' }}>
                 <h2>{strMeal}</h2>
-                <p>{strInstructions.slice(0, 100)}</p>
+                <p>{strInstructions.slice(0, 150)}</p>
                 <span><small>{strArea + ' ' + strCategory}</small></span>
             </div>
         </div>
