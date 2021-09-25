@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f6f6f6;
+}
+
+.header h2 {
+    margin-left: 50px;
+}
+
+.header nav {
+    margin-right: 50px;
+}
+
+.header nav a {
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+}
