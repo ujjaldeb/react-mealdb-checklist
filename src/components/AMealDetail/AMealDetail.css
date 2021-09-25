@@ -1,0 +1,11 @@
+.meal {
+    box-shadow: 3px 3px 10px #888;
+}
+
+.meal img {
+    width: 100%;
+}
+
+.meal span {
+    color: maroon;
+}

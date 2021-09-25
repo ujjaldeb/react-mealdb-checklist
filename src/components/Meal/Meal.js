@@ -16,7 +16,7 @@ const Meal = (props) => {
                 <p>{strInstructions.slice(0, 150)}</p>
                 <span><small>{strArea + ' ' + strCategory}</small></span>
                 <br />
-                <button>{faIcon} See details...</button>
+                <button onClick={() => props.showTheMealDetails(props.meal)}>{faIcon} See details...</button>
             </div>
         </div>
     );
