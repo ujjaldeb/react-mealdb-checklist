@@ -19,7 +19,7 @@ const Main = () => {
                 }
             </div>
             <div className="single-meal">
-                <h2>A meal details:</h2>
+                <h3>A meal details:</h3>
             </div>
         </div>
     );

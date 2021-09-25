@@ -9,3 +9,9 @@
 .meal span {
     color: maroon;
 }
+
+.meal button {
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 3px 15px;
+}
